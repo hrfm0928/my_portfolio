@@ -1,0 +1,32 @@
+.wrap {
+  /* display: flex; */
+}
+
+.wrap img {
+  /* height: 300px; */
+}
+
+wrap w80 {
+  text-align: center;
+}
+
+.pic01 {
+  margin: 0 0 0 284px;
+  width: 335px;
+}
+
+.pic {
+  margin: 0 0 0 118px;
+  width: 326px;
+}
+
+.pic03 {
+  margin: 0 0 0 91px;
+  width: 311px;
+}
+
+.words {
+  font-size: 16px;
+  margin: 19.92px 30px 0 30px;
+  text-align: justify;
+}
